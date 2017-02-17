@@ -20,3 +20,5 @@ drwxr-xr-x  2 regina.carla StafCS 4096 Feb 14 16:14 week09
 drwxr-xr-x  2 regina.carla StafCS 4096 Feb 14 16:14 week10
 drwxr-xr-x  2 regina.carla StafCS 4096 Feb 14 16:15 xtra
 /home/fasilkom/mahasiswa/r/regina.carla/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 17 Feb 2017 at 14:56:15

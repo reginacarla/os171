@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 #reginacarla
+=======
+#ostutorial
+
+I expect OS will be fun and interesting
+>>>>>>> b560230174807b3da9547214d06d03e7589c51f1
