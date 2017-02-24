@@ -1,0 +1,23 @@
+Wed Sep 14 08:56:10 WIB 2016
+============================
+
+# [IF IN DOUBT DELETE THE ".gnupg" DIRECTORY AND START AGAIN]
+
+# create a folder in your home directory eg. "work/"
+% mkdir work 
+
+# create folder "work02/" inside "work/".
+% mkdir work/work02 
+
+# enter "work02/"
+% cd work/work02/
+
+# (win)scp "00-toc.txt" (this file) and "01-public-osteam.txt" into here.
+# initial listing
+% ls -al > 02-ls-al.txt
+
+# Generate a gnupg pair key/RSA&RSA 4096 bits/do not forget your passphrase
+# Real name: github_account
+# Email address: github_account@localhost
+# Comment: choose-your-initial
+% gpg --gen-key

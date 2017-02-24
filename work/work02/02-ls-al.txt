@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 regina.carla StafCS 4096 Feb 23 09:50 .
+drwxr-xr-x 3 regina.carla StafCS 4096 Feb 23 09:17 ..
+-rw-r--r-- 1 regina.carla StafCS  601 Feb 23 09:49 00-toc.txt
+-rw-r--r-- 1 regina.carla StafCS    0 Feb 23 09:50 02-ls-al.txt
