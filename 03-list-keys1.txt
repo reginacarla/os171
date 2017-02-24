@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/r/regina.carla/.gnupg/pubring.gpg
+----------------------------------------------------------
+pub   4096R/FAF1E00D 2017-02-24 [expires: 2017-08-23]
+uid                  Regina Carla Handayani (I'm interested in Operating System) <regina.carla@ui.ac.id>
+sub   4096R/F4ACA15C 2017-02-24 [expires: 2017-08-23]
+
