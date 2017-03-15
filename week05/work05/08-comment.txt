@@ -1,0 +1,3 @@
+Selamat siang,
+saya sudah mencoba mengerjakan namun sebelumnya saya sempat salah buat malah buat di luar badak hehe.
+Untuk analisa saya mengenai lab minggu ini adalah pada setiap proses compile terdapat kode yang berjalan pada sistem lalu semua proses tersebut memiliki id atau yang disebut PID kemudian setiap proses memiliki proses induk yang di sebut PPID Parent dari sebuah PID.
