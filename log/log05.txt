@@ -1,0 +1,10 @@
+tHubAccount : reginacarla
+
+ww05-170320-17-LR-About: Binding and Linking, From: file:///C:/Users/USER/Downloads/os05-171.pdf
+ww05-170320-17-LR-About: Virtual & Physical Memory , From: http://stackoverflow.com/questions/14347206/what-are-the-differences-between-virtual-memory-and-physical-memory
+ww05-170320-20-LR-About: Memory, From: Arsip Schilberschatz
+ww05-170321-16-LR-About: Memory Allocation, From: Lecturer
+ww05-170321-17-LR-About: Address Binding, MMU, Multiple Variable, From: Lecturer
+ww05-170323-16-LR-About: Page Table, From: Lecturer
+ww05-170323-17-LR-About: Virtual and Physical Memory, From: Lecturer
+ww05-170323-18-LR-About: I/O Programming Open & Close, From: Lecturer

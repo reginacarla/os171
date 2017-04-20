@@ -1,0 +1,10 @@
+#GitHubAccount : reginacarla
+
+ww06-170407-17-LR-About: Processes & Threads, From: file:///C:/Users/USER/Downloads/os06-171.pdf
+ww06-170410-17-LR-About: Processes Chapter 3a , From: Arsip Schilberschatz
+ww06-170410-20-LR-About: Fork, From: http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html 
+ww06-170411-16-LR-About: Processes and Fork, From: Lecturer
+ww06-170411-17-LR-About: Mutual exclusion, From: Lecturer
+ww06-170412-20-LR-About: System Call Tutorial, From: https://www.youtube.com/watch?v=xVSPv-9x3gk
+ww06-170413-17-LR-About: Fork, From: Lecturer
+ww06-170413-18-LR-About: Critical Section, Mutual exclusion, Fork, PID, PPID, From: Lecturer

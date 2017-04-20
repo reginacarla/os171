@@ -1,0 +1,10 @@
+tHubAccount : reginacarla
+
+ww02-170213-19-LR-About: Copyright and Copyleft, From: https://www.gnu.org/gwm/libredocxml/x53.html
+ww02-170213-20-LR-About: Intellectual Property: Patent, Trademark, etc, From: https://yourstory.com/2016/06/difference-trademark-copyright-patent/
+ww02-170214-16-LR-About: IPR, Free Software vs Open Source Software, From: Lecturer
+ww02-170214-17-LR-About: GNU/Linux CLI shell, From: Lecturer
+ww02-170214-16-PS-About: GitHub Repository
+ww02-170215-21-LR-About: Scripting: Pipe and Redirection, etc, From: ARSIP/Bahan Ajar Lama
+ww02-170216-16-LR-About: Scripting, From: Lecturer
+ww02-170216-17-LR-About: Scripting shell, From: Lecturer

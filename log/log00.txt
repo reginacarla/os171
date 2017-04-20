@@ -1,0 +1,6 @@
+#GitHubAccount : reginacarla
+w00-170207-19-LR-About: INTRODUCTION TO OS, From: BOOK, Guide to OS
+w00-170209-16-LR-About: Introduction to Operating System, From: Lecturer
+w00-170209-17-LR-About: Introduction to Operating System, From: Lecturer
+w00-170209-18-LR-About: GITHUB Learning
+w00-170209-20-LR-About: Operating systems 1 - Introduction, From: https://www.youtube.com/watch?v=5AjReRMoG3Y

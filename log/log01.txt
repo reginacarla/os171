@@ -1,0 +1,7 @@
+tHubAccount : reginacarla
+
+ww01-170208-19-LR-About: Protection and Security, From: https://www.gnu.org/gwm/libredocxml/x53.html
+ww01-170208-20-LR-About: Intellectual Property: Patent, Trademark, etc, From: https://yourstory.com/2016/06/difference-trademark-copyright-patent/
+ww01-170209-16-LR-About: Protection and Security, From: Lecturer
+ww01-170209-17-LR-About: GNU/Linux CLI shell, From: Lecturer
+ww01-170212-16-PS-About: GitHub Repository

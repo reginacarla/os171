@@ -1,0 +1,8 @@
+#GitHubAccount : reginacarla
+
+ww03-170220-17-LR-About: Urutan proses Booting LINUX, From: http://panjiades.blogspot.co.id/2016/11/urutan-proses-booting-pada-linux-os.html
+ww03-170220-17-LR-About: Step by step BIOS Process, From: https://www.quora.com/What-is-the-step-by-step-booting-process-of-Windows
+ww03-170220-20-LR-About: BIOS Process From: http://www.bioscentral.com/misc/biosbasics.htm
+ww03-170221-16-LR-About: Legacy BIOS, UEFI, From: Lecturer
+ww03-170221-17-LR-About: Bagaimana proses booting dr CPU dinyalakan sampai siap digunakan, From: Lecturer
+ww03-170223-16-PS-About: GitHub Assigment

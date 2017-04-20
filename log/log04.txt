@@ -1,0 +1,10 @@
+#GitHubAccount : reginacarla
+
+ww04-170306-17-LR-About: Addressing, From: file:///C:/Users/USER/Downloads/os04-171.pdf
+ww04-170306-17-LR-About: Pengenalan Addressing, From: http://alusi81.blogspot.co.id/2009/11/1.html
+ww04-170306-20-LR-About: Pointer & I/O From: Arsip Schilberschatz
+ww04-170307-16-LR-About: Addressing, From: Lecturer
+ww04-170307-17-LR-About: Little Endian, Big Endian, Addressing Mapping, From: Lecturer
+ww04-170308-16-PS-About: Learn GitHub Assigment
+ww04-170308-16-LR-About: Pointer & I/O Programming, From: Lecturer
+ww04-170308-19-PS-About: Solve Github Assigment
