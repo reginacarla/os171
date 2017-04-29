@@ -1,0 +1,10 @@
+#Github Account: reginacarla
+
+00-server.c
+Pada saat program ini dinyalakan maka program ini otomatis akan menjalankan peran sebagai server
+
+01-client.c
+Setelah program server dijalankan maka kita buka terminal baru lalu disana kita jalankan script catat week08 yang nantinya akan merecord kegiatan yang kita lakukan. setelah itu ketik /sbin/ifconfig untuk memunculkan ip address pc kita. setelah kita mengetahui ip address kita selanjutnya kita jalankan ./01-client IP_ADDRESS_KITA 9001 setelah itu tekan enter maka yang terjadi adalah pada sisis terminal server secara otomatis kta telah mendaftarkan ip address kita ke server dan server bisa mengirimkan pesan apapun untuk clientnya, yang nantinya pesan tersebut akan muncul pada layar client
+
+02-clisvr.c
+Setelah berhasil menjalankan kedua program client dan server diatas selanjutnya pada sesi lab ini kita diharuskan membuat grup yang berisikan min 3 orang dan maksimal sekelas yang bertujuan untuk menjalankan program server client ini dengan banyak client di banyak pc. langkah - langkahnya sama dengan langkah - langkah sebelumnya, namun disini sekarang kita harus menentukan siapa yang akan menjadi server dan siapa yang akan menjadi clientnya. setelah kita menentukan misalnya siswa A menjadi servernya dan siswa B, C, dan D menjadi clientnya maka siswa A yang pertama kali menjalankan program server ditambah kata null null selanjutnya siswa B menjalankan program client dengan menggunakan IP ADDRESS siswa A, lalu siswa C menjalankan program client dengan mengginakan IP ADDRESS siswa B, siswa D menjalankan program client dengan menggunakan IP ADDRESS siswa C, dan terakhir siswa A menjalankan program clisvr dengan menggunakan IP ADDRESS siswa D. setelah semua dilakukan maka akan muncul perintah untuk memasukkan pesan pada layar terminal siswa A selaku server, kemudian misalnya siswa A memasukkan pesan "Hello" maka pesan itu akan langsung muncul ke layar semua client yang tadi telah terhubung IP ADDRESSnya.
