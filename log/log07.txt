@@ -1,0 +1,10 @@
+tHubAccount : reginacarla
+w07-170416-14-LR-About: Synchronization Process, From: http://www.studytonight.com/operating-system/process-synchronization
+w07-170417-13-LR-About: Mutual Exclusion, From: http://cs.lmu.edu/~ray/notes/mutualexclusion/
+w07-170418-16-LR-About: Synchronization: Mutex, From: Lecturer
+w07-170418-17-LR-About: Semaphore Usage , From: Lecturer
+w07-170419-19-LR-About: Crtical Region, From: https://www.tutorialspoint.com/operating_system/os_mutual_exclusion_using_critical_region.asp
+w07-170419-20-LR-About: Process Synchronization, From: ARSIP/BahanAjarLama
+w07-170420-16-LR-About: Synchronization: Contoh soal, From: Lecturer
+w07-170420-17-LR-About: Demo Writers Readers, From: Lecturer
+w07-170421-17-DS-About: Lab Assigment

@@ -1,0 +1,10 @@
+tHubAccount : reginacarla
+w08-170423-10-LR-About: Scheduling Process, From: https://github.com/UI-FASILKOM-OS/os171/blob/master/OS171/os08-171.pdf
+w08-170424-12-LR-About: I/O Burst and CPU Burst, From: https://www.quora.com/What-is-meant-by-CPU-Burst-and-I-O-Burst
+w08-170425-16-LR-About: Schedulling I/O Burst, From: Lecturer
+w08-170425-17-LR-About: CPU Burst , From: Lecturer
+w08-170426-19-LR-About: CPU Scheduling, From: https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html
+w08-170426-20-LR-About: Scheduling and Socket, From: ARSIP/BahanAjarLama
+w08-170427-16-LR-About: Scheduling CPU: Contoh soal, From: Lecturer
+w08-170427-17-LR-About: Demo Server and Client, From: Lecturer
+w08-170428-17-DS-About: Lab Assigment Server and Client
