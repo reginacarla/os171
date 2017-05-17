@@ -1,0 +1,19 @@
+# Github Account: reginacarla
+1. Apa itu PID dan PPID?
+- PID adalah singkatan dari Process ID yaitu identification number untuk proses yang saat ini sedang berjalan di dalam memori. Ketika suatu proses dimulai, maka setiap proses tersebut akan diberikan nomor proses dan nomor proses tersebut bersifat unique yang sama dengan ibarat sidik jari pada manusia jadi setiap proses tidak mungkin memiliki ID yang sama. Nomor unik tersebut disebut Process ID atau PID yang mengidentifikasi proses ke dalam sistem.
+- PPID adalah singkatan dari Parent Process ID yang berarti Parent Process adalah yang bertanggung jawab untuk membuat proses yang sedang berjalan saat ini yaitu proses anak atau PID. Melalui proses parent, proses anak akan dibuat. Jika proses induk terbunuh maka proses anak juga akan terhenti.
+
+2. Apa yang getpid, getppid, sleep dan fungsi wait lakukan?
+- getpid adalah fungsi untuk mengembalikan Proses ID atau PID dari proses pemanggilan
+- getppid adalah fungsi untuk mengembalikan Proses ID induk dari proses yang sedang dipanggil.
+- sleep adalah system call memiliki fungsi untuk menghentikan proses ini dalam hitungan detik 
+- wait memiliki fungsi ada situasi tertentu dimana ketika proses anak berakhir atau ada perubahan status maka proses induk harus datang untuk mengetahui tentang perubahan dari status atau penghentian status proses anak. Wait digunakan oleh proses induk dimana parent mendapat query untuk mengubah keadaan proses anak menggunakan fungsi-fungsi ini
+
+3. Apa fungsi dari procStatus?
+fungsi dari procStatus adalah untuk mengeksekusi loop pid dan ppid dan mencetaknya ke layar
+
+4. Apa kegunaan wait(NULL) pada fungsi levelFork?
+fungsinya adalah parent pid diberitahukan untuk menunggu pid jalan sampai mati baru kemudian setelah pid mati ppid melanjutkan kembali sampai mati
+
+5. Apa kegunaan fflush(NULL) pada fungsi procStatus?
+fungsinya adalah agar proses output berjalan satu-satu dan tidak berebutan satu dan yang lainnya 

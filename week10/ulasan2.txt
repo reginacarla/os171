@@ -1,0 +1,9 @@
+Ulasan ini dibuat oleh 
+Nama : Regina Carla
+GitHub Account : reginacarla
+URL Ulasan : http://hairegina.blogspot.co.id/2017/05/ulasan2-file-system-as-fast-as-possible.html
+URL Video : https://youtu.be/BV0-EPUYuQc
+Video Author : Linus Sebastian
+Pemetaan : Week05
+Revisi pertama : 7 Mei 2017
+Revisi kedua : 17 Mei 2017

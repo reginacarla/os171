@@ -1,0 +1,13 @@
+#Github Account: reginacarla
+
+------------- brief summary of the program --------------
+* 03-readwrite
+Pada program ini menjalankan fungsi read dan write dimana apabila reader sudah siap akan mengirimkan status siap. program ini memiliki ketentuan pada saat ada seorang writer yg sedang menulis tidak boleh ada yang menulis dan membaca. apabila sedang ada yang membaca maka writer tidak boleh menulis. tetapi apabila sesama reader saling membaca diperbolehkan
+* 05-balap
+Pada program ini disiapkan 10 pembalap yang akan bersiap untuk balapan. diawal program akan menampilkan semua pembalap yang sudah siap untuk balapan dan setiap pembalap memberitahukan bahwa mereka sudah siap. setelah itu program akan berusaha dulu duluan masuk kedalam program, siapa yang tercepat akan menjadi pemenangnya yang tidak berhasil masuk program akan menunggu sampai berhasil. pada akhir program akan ditampilkan pembalap nomor berapa yang menjad pemenangnya
+
+------------- critical section ---------------
+ini merupakan sebuah protokol yang di desain biar proses2 yang ada bsa gunain sama2. critical section harus memenuhi 3 syarat utama yaitu mutex, progress, sama bounded waiting
+
+------------- gunanya pake mutex sama gak pake mutex -------------
+mutex itu kan cara biar sebuah proses yang pakai variable yang sama itu bisa sama2 pakai variablenya tapi gantian. jadi kl pakai mutex cuma ada satu proses yang boleh pakai variable atau sumber daya itu dan proses lain kalo mau pakai juga harus nunggu sampai proses yang pertama tadi selesai dan ngasih signal ke proses selanjutnya buat jalan yang selanjutnya. nah kalau gak pakai mutex setiap proses bakal dulu2an biar bisa masuk ke programnya. kayak demo yg readwriter itu dia pakai mutex makanya prosesnya teratur siapa yang lagi baca siapa yg lagi nulis gantian. kalau di demo balap setiap proses ga nunggu proses lainnya buat jalan tapi dulu2an biar bisa dapet tempat lebih dulu dan random siapa yang bakal menang balapan.
